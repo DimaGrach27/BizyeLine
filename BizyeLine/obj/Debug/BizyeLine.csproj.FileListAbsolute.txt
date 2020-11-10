@@ -1,0 +1,10 @@
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\bin\Debug\BizyeLine.exe.config
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\bin\Debug\BizyeLine.exe
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\bin\Debug\BizyeLine.pdb
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.csprojAssemblyReference.cache
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.Properties.Resources.resources
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.csproj.GenerateResource.cache
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.csproj.CoreCompileInputs.cache
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.exe
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.pdb
+D:\Dima\Game dev\c#\BizyeLine\BizyeLine\obj\Debug\BizyeLine.Form1.resources
